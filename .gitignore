@@ -1,9 +1,6 @@
 target/
-.mvn
+.mvn/
 .idea
-*.iws
-*.iml
-*.ipr
 mvnw.cmd
 mvnw
 
